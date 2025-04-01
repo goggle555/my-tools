@@ -85,3 +85,10 @@ This template comes with [Tailwind CSS](https://tailwindcss.com/) already config
 ---
 
 Built with ❤️ using React Router.
+
+# TODOs
+
+- [ ] Favicon Generator
+- [ ] QR Code Generator
+- [ ] Color Code Converter
+- [ ] Youtube Live Comments Viewer
